@@ -32,3 +32,20 @@ img {
   .card {
     margin-top: 20px;
   }
+
+ /* for the footer  */
+  .footerArea {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #212529;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    height: 90px;
+  }
+  
+  .footerArea p {
+    text-transform: uppercase;
+  }

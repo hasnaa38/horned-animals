@@ -27,3 +27,12 @@ Estimate of time needed to complete: 1 hour
 Start time: 7:15 pm
 Finish time: 8:00 pm
 Actual time needed to complete: 45 minutes
+
+### Day 3 (7/9/2021)
+
+#### Feature: Bootstrap Modals
+
+Estimate of time needed to complete: 2 hours (with understanding)
+Start time: 6:45 pm
+Finish time: 10:30 pm
+Actual time needed to complete: about 6 hours

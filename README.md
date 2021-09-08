@@ -36,3 +36,12 @@ Estimate of time needed to complete: 2 hours (with understanding)
 Start time: 6:45 pm
 Finish time: 10:30 pm
 Actual time needed to complete: about 6 hours
+
+### Day 4 (8/9/2021)
+
+#### Feature: Cards Filters
+
+Estimate of time needed to complete: 2 hours
+Start time: 5:30 pm
+Finish time: 8 pm
+Actual time needed to complete: 2:30 hours
